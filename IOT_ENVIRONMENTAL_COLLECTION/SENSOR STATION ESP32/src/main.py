@@ -309,6 +309,9 @@ class ESP32Handler():
             ssid = self.xor_encrypt_decrypt(received_ssid, self.receiver_key).decode()
             password = self.xor_encrypt_decrypt(received_password, self.receiver_key).decode()
 
+            # Declare WLAN station as variable
+            station = network.WLAN(network.STA_IF)
+
             self.getConnection(station, ssid, password)
                 
 
