@@ -8,4 +8,10 @@ the project is to develop a sensor network which monitors environmental paramete
 humidity, barometric pressure, temperature, and windspeed, with the measurements elicited being 
 relayed back to the user via the IoT cloud for mobile access, and an LCD screen for indoor access. After 
 deriving the sensor readings for each day, the intention is to store key characteristics into a dataset 
-and then predict the corresponding readings for the next day, therefore serving as a forecast
+and then predict the corresponding readings for the next day, therefore serving as a forecast.
+
+I decided to take an OOP approach for the construction of my code to make it easier to identify object-event relationships.
+
+For more details on the project feel free to take a look at the project report:
+
+- IoT System for Environmental Data Collection Project Report (M00720579).pdf
