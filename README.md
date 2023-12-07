@@ -12,6 +12,6 @@ and then predict the corresponding readings for the next day, therefore serving 
 
 I decided to take an OOP approach for the construction of my code to make it easier to identify object-event relationships.
 
-For more details on the project feel free to take a look at the project report:
+## For more details on the project feel free to take a look at the project report:
 
-- IoT System for Environmental Data Collection Project Report (M00720579).pdf
+[IoT System for Environmental Data Collection Project Report (M00720579).pdf](https://github.com/cnkwo/IoT_Environmental_Data_Collection/blob/main/IoT%20System%20for%20Environmental%20Data%20Collection%20Project%20Report%20(M00720579).pdf)
